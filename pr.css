@@ -1,0 +1,27 @@
+.pr{
+	background-image: url('./th.jpeg');
+	height:400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.rejoindre{
+	padding: 20px 65px;
+	
+    background-color: #ea4343;
+    border-radius: 7px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+.title{
+	line-height: 1.5;
+	padding-top: 140px;
+	text-align: center;
+	color: white;
+}
+.meetup{
+	width: 20%;
+	margin: 76px auto;
+}
+

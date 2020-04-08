@@ -1,0 +1,30 @@
+img{
+	margin-left: 20px;
+	width: 10%;
+	height: auto;
+}
+.wrap2{
+	height: 85px;
+	width: 100%;
+}
+.login{
+	margin-right: 25px;
+	margin-top: -42px;
+	display: flex;
+	justify-content: flex-end;
+}
+.login>a{
+	text-decoration: none;
+}
+#start{
+	color: #189db3;
+	margin-right: 30px;
+}
+#login{
+	color: #6a675e;
+	margin-right: 30px;
+}
+#signup{
+	color: #6a675e;
+}
+

@@ -1,0 +1,35 @@
+.content2{
+	margin-top: 40px;
+}
+.detail-0>a>img{
+	border-radius: 10px;
+	width: 100%;
+	height: 100%;
+}
+.detail-0{
+	color: black;
+	margin-left: 25px;
+	width: 25%;
+	height: 25%;
+}
+.detail-1{
+	height: 25%;
+	width: 25%;
+}
+.detail-1>a>img{
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+}
+a{
+	text-decoration: none;
+}
+.detail-0>a{
+	text-transform: capitalize;
+	color: black;
+}
+.detail-1>a{
+	text-transform: capitalize;
+	color: black;
+}
+

@@ -1,9 +1,11 @@
-
+.conten1{
+	margin-top: 40px;
+}
 .content1>a{
 	margin-top: 5px;
 	float: right;
-	text-decoration: none;
 	color: #2299bd;
+	text-decoration: none;
 }
 .content1>p{
 	line-height: 1.5;
@@ -57,9 +59,6 @@
 	padding-top: 10px;
 	
 
-}
-a{
-	text-decoration: none;
 }
 .participer{
 	display: inline-block;

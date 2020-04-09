@@ -1,0 +1,30 @@
+.content3{
+	margin-top: 40px;
+	background-color: #090915;
+	color: white;
+}
+h1{
+	text-align: center;
+	padding-top: 60px;
+}
+.alltxt{
+	margin-top: 45px;
+	display: flex;
+	justify-content: center;
+}
+.all-1{
+	line-height: 1.5;
+	margin-right: 4em;
+}
+.all-2{
+	line-height: 1.5;
+	margin-left: 4em;
+}
+.all-1>a{
+	font-size: 18px;
+	color: #dedede;
+}
+.all-2>a{
+	font-size: 18px;
+	color: #dedede;
+}

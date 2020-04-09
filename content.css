@@ -1,0 +1,21 @@
+.col-1-12 {width: 8,333333%;}
+.col-2-12 {width: 16,666666%;}
+.col-3-12 {width: 25%;}
+.col-4-12 {width: 33,333333%;}
+.col-5-12 {width: 41,666666%;}
+.col-6-12 {width: 50%;}
+.col-7-12 {width: 58,333333%;}
+.col-8-12 {width: 66,666666%;}
+.col-9-12 {width: 75%;}
+.col-10-12{width: 83,333333%;}
+.col-11-12{width: 91,666666%;}
+.col-12-12{width: 100%;}
+[class^="col"]{
+	float: left;
+}
+.col-12-12{
+	margin-top: 40px;
+	margin-left: 127px;
+	width: 80%;
+
+}
